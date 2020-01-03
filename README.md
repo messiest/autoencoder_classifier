@@ -1,2 +1,4 @@
 # autoencoder_classifier
-Autoencoder model for rare event classification
+Autoencoder model for rare event classification.
+
+![Reconstruction Error](assets/reconstruction_error.png)
